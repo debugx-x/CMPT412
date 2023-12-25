@@ -1,0 +1,41 @@
+cost = 0.273576 training_percent = 0.910000
+cost = 0.277635 training_percent = 0.920000
+cost = 0.182089 training_percent = 0.930000
+cost = 0.146620 training_percent = 0.960000
+cost = 0.204408 training_percent = 0.950000
+test accuracy: 0.950000 
+
+cost = 0.207447 training_percent = 0.930000
+cost = 0.154852 training_percent = 0.940000
+cost = 0.131736 training_percent = 0.960000
+cost = 0.114719 training_percent = 0.970000
+cost = 0.143372 training_percent = 0.970000
+test accuracy: 0.962000 
+
+cost = 0.134420 training_percent = 0.960000
+cost = 0.143654 training_percent = 0.930000
+cost = 0.151169 training_percent = 0.960000
+cost = 0.094587 training_percent = 0.990000
+cost = 0.110662 training_percent = 0.970000
+test accuracy: 0.964000 
+
+cost = 0.099175 training_percent = 0.980000
+cost = 0.108885 training_percent = 0.950000
+cost = 0.047485 training_percent = 0.990000
+cost = 0.070025 training_percent = 0.980000
+cost = 0.075278 training_percent = 0.970000
+test accuracy: 0.968000 
+
+cost = 0.098377 training_percent = 0.950000
+cost = 0.099381 training_percent = 0.980000
+cost = 0.079156 training_percent = 0.980000
+cost = 0.100339 training_percent = 0.970000
+cost = 0.110561 training_percent = 0.980000
+test accuracy: 0.972000 
+
+cost = 0.098811 training_percent = 0.970000
+cost = 0.032272 training_percent = 1.000000
+cost = 0.058712 training_percent = 0.980000
+cost = 0.071283 training_percent = 0.980000
+cost = 0.103343 training_percent = 0.970000
+test accuracy: 0.972000 
